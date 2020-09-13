@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "109589120822",
+    "firebase_url": "https://bon-hacketit-proj.firebaseio.com",
+    "project_id": "bon-hacketit-proj",
+    "storage_bucket": "bon-hacketit-proj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109589120822:android:f7fcf52246bb59ea0e1597",
+        "android_client_info": {
+          "package_name": "com.example.bon_hacketit_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109589120822-547mnpt32utqj3tste9ovh0s90hk2t3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA225Cm4mHiX6vJqiefgHi5WuYV0n5z190"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109589120822-547mnpt32utqj3tste9ovh0s90hk2t3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
