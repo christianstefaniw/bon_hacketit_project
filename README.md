@@ -1,5 +1,5 @@
 # Bon Hacketit Hackathon Project - eMenu
-Order food from your table at a restaurant with the eMenu app
+When you're at a restaurant, order food directly to your table with the eMenu app.
 
   * **Won 1st overall at the Bon Hacketit hackathon.**
   
