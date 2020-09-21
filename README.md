@@ -1,6 +1,8 @@
-# bon_hacketit_project
+# Bon Hacketit Hackathon Project - eMenu
+Order food from your table at a restaurant with the eMenu app
+  Won 1st overall at the Bon Hacketit hackathon.
+  Devpost Submition: https://devpost.com/software/emenu-eat-out-order-in
 
-Won 1st overall at the Bon Hacketit hackathon.
 
 ## Getting Started
 
