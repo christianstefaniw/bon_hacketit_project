@@ -1,6 +1,6 @@
 # bon_hacketit_project
 
-Bon Hacketit hackathon project.
+Won 1st overall at the Bon Hacketit hackathon.
 
 ## Getting Started
 
